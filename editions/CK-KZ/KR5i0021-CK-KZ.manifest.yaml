@@ -1,0 +1,49 @@
+canonical_identifier: bkk:krp/KR5i0021/CK-KZ/v1
+canonical_location: https://kanripo.org/bkk/KR5i0021/CK-KZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 玉清贊化九天演政心印集經
+  date: '2015-08-29 17:49:09.818624'
+  source:
+    repository: kanripo
+    path: KR5i0021
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+  edition:
+    short: CK-KZ
+    label: 【重刊道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 1, filename: KR5i0021_001-CK-KZ.yaml, hash: 'sha256:d0056821347f33942e2d261410cf559141a4dc159e61a34560174803382709ac'}
+  - {seq: 2, filename: KR5i0021_002-CK-KZ.yaml, hash: 'sha256:48fb3ef9f1ae082b102786c095b01c5976ef8ea3c970c48fd3e554dd4ff83f3e'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5i0021_001-CK-KZ.markers.yaml, hash: 'sha256:a3b13ab2faa93187f57b57f559fd4db06e46f08e62c10591f5f25b3c40c70e20'}
+  - {seq: 2, role: markers, filename: assets/KR5i0021_002-CK-KZ.markers.yaml, hash: 'sha256:a5a1ddbb518d26e57cc9da73d235320ef2e561685d9aea82c85d55939076b753'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: YP-P_KR5i0021_01p001a
+    span:
+    - body
+    - 0
+    - 297
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: YP-P_KR5i0021_02p001a
+    span:
+    - body
+    - 0
+    - 24266
+  label: juan 002
+  type: section
+  level: 1
+hash: sha256:d0d8f9aa659d340738566baf1f9545765972853378b16ddebbb6f9a055e8fb99

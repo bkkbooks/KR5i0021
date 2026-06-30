@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR5i0021/CK-KZ/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 玉清贊化九天演政心印集經經序文昌帝君曰經以集名誌義也心印産子神母發于元始闡自大洞眞儒而冶以成文是集義所生者非義襲而取之也大洞眞儒以普度心化世而一貫夫三教根源其設教也萬戶齊開登證路廣誠以帝謂凡兹下民皆元始種惟降日降非降遂降故其言曰種草不齊有教無類皇風蕩蕩徧宇皆春無不可化之民人而入道莫先于敦本是一秉乎大孝必仙大忠必神之旨而集其大成余譚經演教于九天之上寓權機于大洞眞儒其指揮如意不速而成是真化工之關鍵儒教之梯航也人能體是經而心廣體胖用是經而金聲玉振以之正心誠意脩齊治平為上士為中士為下士惟其所願猗歟美哉亦何必盡人而黄冠草褐始謂歸依于無上宫哉兹因是經之初傳而降此幾鉤墨于簡端亦取諸集以成書敷落神眞云爾
+  hash: sha256:c57a2cf33166d1e4d42eb38788b39b2d8c3e415fb82f47c66a5bbfa2ff6f6ef0
+  markers:
+  - {type: page-break, offset: 12, content: '', id: YP-P_KR5i0021_01p001a}
+metadata:
+  title: 玉清贊化九天演政心印集經
+  edition:
+    short: CK-KZ
+    label: 【重刊道藏輯要】
+  date: '2015-08-29 17:49:09.818624'
+  source:
+    repository: kanripo
+    path: KR5i0021/KR5i0021_001.txt
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+hash: sha256:d0056821347f33942e2d261410cf559141a4dc159e61a34560174803382709ac
